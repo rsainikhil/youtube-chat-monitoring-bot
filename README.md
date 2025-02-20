@@ -12,8 +12,8 @@ A powerful bot designed to detect and block spam messages, prevent bot attacks, 
 🔧 **Installation & Setup**
 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone [https://github.com/YOUR-USERNAME/YOUR-REPO.git](https://github.com/rsainikhil/youtube-chat-monitoring-bot)
+cd [YOUR-REPO](https://github.com/rsainikhil/youtube-chat-monitoring-bot)
 
 2️⃣ **Install Dependencies**
 
